@@ -59,7 +59,7 @@ For more [examples](https://gobyexample.com)
 - [x] Epoch
 - [x] Time Formatting / Parsing
 - [x] Random Numbers
-- [ ] Number Parsing
+- [x] Number Parsing
 - [ ] URL Parsing
 - [ ] SHA1 Hashes
 - [ ] Base64 Encoding
