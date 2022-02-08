@@ -44,7 +44,7 @@ For more [examples](https://gobyexample.com)
 - [x] Atomic Counters
 - [x] Mutexes
 - [x] Stateful Goroutines
-- [ ] Sorting
+- [x] Sorting
 - [ ] Sorting by Functions
 - [ ] Panic
 - [ ] Defer
