@@ -53,7 +53,7 @@ For more [examples](https://gobyexample.com)
 - [x] String Functions
 - [x] String Formatting
 - [x] Regular Expressions
-- [ ] JSON
+- [x] JSON
 - [ ] XML
 - [ ] Time
 - [ ] Epoch
