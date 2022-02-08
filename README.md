@@ -55,7 +55,7 @@ For more [examples](https://gobyexample.com)
 - [x] Regular Expressions
 - [x] JSON
 - [x] XML
-- [ ] Time
+- [x] Time
 - [ ] Epoch
 - [ ] Time Formatting / Parsing
 - [ ] Random Numbers
