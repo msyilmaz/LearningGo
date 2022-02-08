@@ -46,7 +46,7 @@ For more [examples](https://gobyexample.com)
 - [x] Stateful Goroutines
 - [x] Sorting
 - [x] Sorting by Functions
-- [ ] Panic
+- [x] Panic
 - [ ] Defer
 - [ ] Recover
 - [ ] Collection Functions
