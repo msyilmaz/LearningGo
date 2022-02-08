@@ -49,7 +49,7 @@ For more [examples](https://gobyexample.com)
 - [x] Panic
 - [x] Defer
 - [x] Recover
-- [ ] Collection Functions
+- [x] Collection Functions
 - [ ] String Functions
 - [ ] String Formatting
 - [ ] Regular Expressions
