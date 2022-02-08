@@ -51,7 +51,7 @@ For more [examples](https://gobyexample.com)
 - [x] Recover
 - [x] Collection Functions
 - [x] String Functions
-- [ ] String Formatting
+- [x] String Formatting
 - [ ] Regular Expressions
 - [ ] JSON
 - [ ] XML
