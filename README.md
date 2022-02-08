@@ -60,7 +60,7 @@ For more [examples](https://gobyexample.com)
 - [x] Time Formatting / Parsing
 - [x] Random Numbers
 - [x] Number Parsing
-- [ ] URL Parsing
+- [x] URL Parsing
 - [ ] SHA1 Hashes
 - [ ] Base64 Encoding
 - [ ] Reading Files
