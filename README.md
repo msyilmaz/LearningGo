@@ -52,7 +52,7 @@ For more [examples](https://gobyexample.com)
 - [x] Collection Functions
 - [x] String Functions
 - [x] String Formatting
-- [ ] Regular Expressions
+- [x] Regular Expressions
 - [ ] JSON
 - [ ] XML
 - [ ] Time
