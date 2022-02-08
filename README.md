@@ -58,7 +58,7 @@ For more [examples](https://gobyexample.com)
 - [x] Time
 - [x] Epoch
 - [x] Time Formatting / Parsing
-- [ ] Random Numbers
+- [x] Random Numbers
 - [ ] Number Parsing
 - [ ] URL Parsing
 - [ ] SHA1 Hashes
