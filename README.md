@@ -50,7 +50,7 @@ For more [examples](https://gobyexample.com)
 - [x] Defer
 - [x] Recover
 - [x] Collection Functions
-- [ ] String Functions
+- [x] String Functions
 - [ ] String Formatting
 - [ ] Regular Expressions
 - [ ] JSON
