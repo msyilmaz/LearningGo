@@ -54,7 +54,7 @@ For more [examples](https://gobyexample.com)
 - [x] String Formatting
 - [x] Regular Expressions
 - [x] JSON
-- [ ] XML
+- [x] XML
 - [ ] Time
 - [ ] Epoch
 - [ ] Time Formatting / Parsing
