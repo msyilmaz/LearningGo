@@ -56,7 +56,7 @@ For more [examples](https://gobyexample.com)
 - [x] JSON
 - [x] XML
 - [x] Time
-- [ ] Epoch
+- [x] Epoch
 - [ ] Time Formatting / Parsing
 - [ ] Random Numbers
 - [ ] Number Parsing
