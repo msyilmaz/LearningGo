@@ -47,7 +47,7 @@ For more [examples](https://gobyexample.com)
 - [x] Sorting
 - [x] Sorting by Functions
 - [x] Panic
-- [ ] Defer
+- [x] Defer
 - [ ] Recover
 - [ ] Collection Functions
 - [ ] String Functions
