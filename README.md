@@ -75,7 +75,7 @@ For more [examples](https://gobyexample.com)
 - [x] Command-Line Subcommands
 - [x] Environment Variables
 - [x] HTTP Clients
-- [ ] HTTP Servers
+- [x] HTTP Servers
 - [ ] Context
 - [ ] Spawning Processes
 - [ ] Exec'ing Processes
