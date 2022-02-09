@@ -76,7 +76,7 @@ For more [examples](https://gobyexample.com)
 - [x] Environment Variables
 - [x] HTTP Clients
 - [x] HTTP Servers
-- [ ] Context
+- [x] Context
 - [ ] Spawning Processes
 - [ ] Exec'ing Processes
 - [ ] Signals
