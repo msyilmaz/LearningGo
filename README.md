@@ -79,5 +79,5 @@ For more [examples](https://gobyexample.com)
 - [x] Context
 - [x] Spawning Processes
 - [x] Exec'ing Processes
-- [ ] Signals
+- [x] Signals
 - [ ] Exit
