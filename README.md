@@ -63,7 +63,7 @@ For more [examples](https://gobyexample.com)
 - [x] URL Parsing
 - [x] SHA1 Hashes
 - [x] Base64 Encoding
-- [ ] Reading Files
+- [x] Reading Files
 - [ ] Writing Files
 - [ ] Line Filters
 - [ ] File Paths
