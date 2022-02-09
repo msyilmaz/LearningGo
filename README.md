@@ -73,7 +73,7 @@ For more [examples](https://gobyexample.com)
 - [x] Command-Line Arguments
 - [x] Command-Line Flags
 - [x] Command-Line Subcommands
-- [ ] Environment Variables
+- [x] Environment Variables
 - [ ] HTTP Clients
 - [ ] HTTP Servers
 - [ ] Context
