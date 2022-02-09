@@ -78,6 +78,6 @@ For more [examples](https://gobyexample.com)
 - [x] HTTP Servers
 - [x] Context
 - [x] Spawning Processes
-- [ ] Exec'ing Processes
+- [x] Exec'ing Processes
 - [ ] Signals
 - [ ] Exit
